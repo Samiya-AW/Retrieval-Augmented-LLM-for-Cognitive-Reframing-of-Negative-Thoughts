@@ -24,13 +24,13 @@ The system follows a simple and effective pipeline:
 
 **1. Embedding Generation**
 - Used SentenceTransformers (all-MiniLM-L6-v2) to convert thoughts into vector representations.
-- 
+  
 **2. Semantic Retrieval** 
 - Retrieved top-k similar thought–reframe pairs using cosine similarity.
-- 
+  
 **3. Prompt Construction**
 - Built structured prompts using retrieved examples.
-- 
+  
 **4. LLM Generation**
 - Generated reframes using an open-source instruction-tuned model
   (TinyLlama/TinyLlama-1.1B-Chat-v1.0).
