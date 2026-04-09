@@ -1,4 +1,4 @@
-# LLM-Based Cognitive Reframing for Negative Thoughts
+# Retrieval-Augmented LLM for Cognitive Reframing of Negative Thoughts
 
 ## Overview
 
