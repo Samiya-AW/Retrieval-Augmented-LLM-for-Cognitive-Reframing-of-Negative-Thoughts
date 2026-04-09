@@ -51,7 +51,9 @@ Failing one exam does not define your abilities. It is an opportunity to learn a
 - HuggingFace Transformers
 - TinyLlama (1.1B Chat Model)
 - Google Colab
-- Key Features
+
+  
+## Key Features
 - Retrieval-augmented generation (RAG)
 - Fully open-source (no paid APIs)
 
